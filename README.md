@@ -1,7 +1,13 @@
 # 4.Execution_of_NetworkCommands
-## AIM :Use of Network commands in Real Time environment
-## Software : Command Prompt And Network Protocol Analyzer
-## Procedure: To do this EXPERIMENT- follows these steps:
+## NAME:Dilliarasu M
+## RIGESTER NUMBER:212223230049
+
+## AIM :
+Use of Network commands in Real Time environment
+## Software :
+Command Prompt And Network Protocol Analyzer
+## Procedure:
+To do this EXPERIMENT- follows these steps:
 <BR>
 In this EXPERIMENT- students have to understand basic networking commands e.g cpdump, netstat, ifconfig, nslookup ,traceroute and also Capture ping and traceroute PDUs using a network protocol analyzer 
 <BR>
@@ -27,6 +33,8 @@ This commands includes
 <BR>
 
 ## Output
+
+![image](https://github.com/Dilliarasu0105/4.Execution_of_NetworkCommends/assets/144979593/f5a83d6c-20c7-4630-b0f8-b71152c8abc2)
 
 ## Result
 Thus Execution of Network commands Performed 
